@@ -9,3 +9,7 @@ function sayName() {
 function newfn() {
     console.log('hey I am a new function')
 }
+
+function newFeatureAdd() {
+    console.log('This is a new feat')
+}
