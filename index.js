@@ -14,3 +14,13 @@ function newFeatureAdd() {
     console.log('This is a new feat')
     console.log('This is a new feat A')
 }
+
+function newFeatureAddBB() {
+    console.log('This is a new feat')
+    console.log('This is a new feat BB')
+}
+
+function newFeatureAddBBB() {
+    console.log('This is a new feat')
+    console.log('This is a new feat BBB')
+}
